@@ -1,0 +1,3 @@
+[submodule "python/prediction_101"]
+	path = python/prediction_101
+	url = https://github.com/sanskriti2003831/Prediction_101
