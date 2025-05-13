@@ -21,7 +21,7 @@ const runwayImages: RunwayImage[] = [
   {
     id: '2',
     designer: 'Schiaparelli',
-    imageUrl: 'images/AllRunwayImages/SchiaperelliLook1.png',
+    imageUrl: 'images/AllRunwayImages/SchiaparelliLook1.png',
     season: 'Spring Summer 2025',
     colorPalette: ['#000000', '#b67040', '#b59b82', '#5e3f25', '#e0a87e']
   },
