@@ -68,7 +68,7 @@ const SummaryOfFindings: React.FC = () => {
     {/* Sentiment Description */}
     <div className="text-sm text-gray-700 w-full">
       <p>
-        The sentiment analysis revealed that approximately 74% of comments were positive (BERT), and 38% were neutral (VADER), 
+        The sentiment analysis revealed that approximately 74% of comments were neutral (BERT), and 38% were positive (VADER), 
         indicating an overall favorable response to the collections with minimal negative feedback.
       </p>
     </div>
