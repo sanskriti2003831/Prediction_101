@@ -145,7 +145,7 @@ const SentimentAnalysis1: React.FC = () => {
         <h2 className="text-lg font-medium text-gray-900 mb-4">Insights Summary</h2>
         <p className="text-sm text-gray-700 leading-relaxed">
           Audience sentiment in 2025 was overwhelmingly positive towards neutral and earthy tones,
-          especially in Chanel's and Fendi's collections. Comments frequently praised design sophistication
+          especially in Chanel's and Schiaparelli's collections. Comments frequently praised design sophistication
           and subtle elegance. Emojis used most often were ❤️, 😍, and 🔥, reinforcing the emotional impact of
           visually appealing runway pieces.
         </p>
