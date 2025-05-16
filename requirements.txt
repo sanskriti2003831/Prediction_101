@@ -1,0 +1,25 @@
+%pip install pandas
+%pip install scikit-learn
+%pip install webcolors
+%pip install --upgrade google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2
+%pip install vaderSentiment
+%pip install emoji
+%pip install demoji
+%pip install ekphrasis
+%pip install deep_translator
+%pip install langdetect
+%pip install cleantext
+%pip install unidecode
+%pip install googletrans==4.0.0-rc1
+%pip install spaCy
+%pip install gensim
+%pip install tf-keras
+%pip install spacy
+%pip install transformers nltk emoji textblob torch pandas googletrans
+%pip install wordcloud matplotlib
+%pip install plotly
+%pip install tensorflow
+%pip install keras-preprocessing
+%pip install seaborn
+%pip install labelme2coco
+%pip install labelme
